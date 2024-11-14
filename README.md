@@ -17,4 +17,5 @@ For the Backend
 - Apollo Graphql - to create GraphQl API
 - JWT - to provide user token
 - Bcrypt - to encrypt user password
+- MongoDB - as non relational database
   
